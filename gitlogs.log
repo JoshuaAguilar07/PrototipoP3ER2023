@@ -1,0 +1,91 @@
+2023-06-26T16:49:17.881Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
+2023-06-26T16:49:18.983Z - info: [ui] [AppStore] loading 5 repositories from store
+2023-06-26T16:49:18.984Z - info: [ui] [AppStore] found account: JoshuaAguilar07 (JoshuaAguilar07)
+2023-06-26T16:49:19.476Z - info: [ui] Subscribed 'JoshuaAguilar07' to Alive channel
+2023-06-26T16:49:19.757Z - info: [ui] launching: 3.2.3 (Windows 10.0.19045)
+2023-06-26T16:49:20.055Z - info: [ui] Stats reported.
+2023-06-26T16:49:41.335Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 4 repositories took 1.9s of which 0.0s paused, total 1.9s
+2023-06-26T16:49:44.292Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.339s)
+2023-06-26T16:50:21.730Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/JoshuaAguilar07/PrototipoP3ER2023.git - JoshuaAguilar07 (has token)
+2023-06-26T16:50:25.100Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/JoshuaAguilar07/PrototipoP3ER2023.git C:\Users\niels\OneDrive\Documentos\GitHub\PrototipoP3ER2023 (took 3.292s)
+2023-06-26T16:50:25.179Z - info: [ui] [AppStore] adding repository at C:\Users\niels\OneDrive\Documentos\GitHub\PrototipoP3ER2023 to store
+2023-06-26T16:50:25.243Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2023-06-26T16:50:54.840Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:50:58.948Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:51:04.164Z - info: [ui] [Timing] Action 'checkout branch from list' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.000s
+2023-06-26T16:52:01.136Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
+2023-06-26T16:52:13.011Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:13.696Z - info: [ui] [Timing] Action 'create branch' for 'JoshuaAguilar07/PrototipoP3ER2023' took 1.017s
+2023-06-26T16:52:16.234Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:18.614Z - info: [ui] Executing push: git -c credential.helper= push origin RamaContenedor9959-20-4660 --set-upstream --progress (took 2.377s)
+2023-06-26T16:52:19.868Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.251s)
+2023-06-26T16:52:22.034Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.165s)
+2023-06-26T16:52:33.692Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:34.368Z - info: [ui] [Timing] Action 'create branch' for 'JoshuaAguilar07/PrototipoP3ER2023' took 1.000s
+2023-06-26T16:52:36.563Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:38.678Z - info: [ui] Executing push: git -c credential.helper= push origin RamaMantenimientos9959-20-4660 --set-upstream --progress (took 2.112s)
+2023-06-26T16:52:45.891Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:46.556Z - info: [ui] [Timing] Action 'create branch' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.993s
+2023-06-26T16:52:47.891Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T16:52:49.209Z - info: [ui] Executing push: git -c credential.helper= push origin RamaProcesos9959-20-4660 --set-upstream --progress (took 1.314s)
+2023-06-26T17:39:43.882Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 6 repositories took 2.1s of which 0.0s paused, total 2.1s
+2023-06-26T17:39:51.079Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:39:51.764Z - info: [ui] [Timing] Action 'checkout branch from list' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.683s
+2023-06-26T17:41:17.532Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 2.663s)
+2023-06-26T17:41:18.785Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 4.017s
+2023-06-26T17:41:21.737Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:41:36.401Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 14.662s)
+2023-06-26T17:43:58.719Z - info: [ui] [BranchPruner] Last prune took place 1 hour ago - skipping
+2023-06-26T17:44:12.228Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:45:56.202Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.658s
+2023-06-26T17:45:57.675Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:45:58.431Z - error: [ui] `git -c credential.helper= push origin main:main --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JoshuaAguilar07/PrototipoP3ER2023.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/JoshuaAguilar07/PrototipoP3ER2023.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2023-06-26T17:46:00.198Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:46:04.375Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:46:05.261Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+stdout:
+CONFLICT (modify/delete): web/vistas/add.jsp deleted in HEAD and modified in ad9bd6b76ade452339c0ff230acd19f4bb448e51.  Version ad9bd6b76ade452339c0ff230acd19f4bb448e51 of web/vistas/add.jsp left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+(The error was parsed as 7: We found some conflicts while trying to merge. Please resolve the conflicts and commit the changes.)
+2023-06-26T17:46:19.076Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T17:46:20.305Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --force-with-lease --progress (took 1.222s)
+2023-06-26T18:02:12.286Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 2.4s of which 0.0s paused, total 2.4s
+2023-06-26T18:03:09.835Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.586s
+2023-06-26T18:03:11.617Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T18:03:12.994Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.375s)
+2023-06-26T19:08:18.749Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 1.7s of which 0.0s paused, total 1.7s
+2023-06-26T19:20:11.020Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:20:11.760Z - info: [ui] [Timing] Action 'checkout branch from list' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.741s
+2023-06-26T19:21:23.065Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.573s
+2023-06-26T19:21:25.213Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:21:26.376Z - info: [ui] Executing push: git -c credential.helper= push origin RamaMantenimientos9959-20-4660:RamaMantenimientos9959-20-4660 --progress (took 1.160s)
+2023-06-26T19:22:00.570Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:22:01.262Z - info: [ui] [Timing] Action 'checkout branch from list' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.692s
+2023-06-26T19:23:35.882Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 1.8s of which 0.0s paused, total 1.8s
+2023-06-26T19:24:00.162Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 0.699s
+2023-06-26T19:24:01.619Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:24:02.928Z - info: [ui] Executing push: git -c credential.helper= push origin RamaContenedor9959-20-4660:RamaContenedor9959-20-4660 --progress (took 1.305s)
+2023-06-26T19:25:41.667Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:25:43.203Z - info: [ui] [Timing] Action 'checkout branch from list' for 'JoshuaAguilar07/PrototipoP3ER2023' took 1.536s
+2023-06-26T19:27:42.316Z - info: [ui] [Timing] Action 'create commit' for 'JoshuaAguilar07/PrototipoP3ER2023' took 1.001s
+2023-06-26T19:27:43.612Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: PrototipoP3ER2023 - JoshuaAguilar07 (has token)
+2023-06-26T19:27:44.973Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.359s)
+2023-06-26T19:29:37.222Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
+2023-06-26T19:29:37.637Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-06-26T19:29:37.638Z - info: [ui] [AppStore] found account: JoshuaAguilar07 (JoshuaAguilar07)
+2023-06-26T19:29:37.662Z - info: [ui] [BranchPruner] Last prune took place 3 hours ago - skipping
+2023-06-26T19:29:37.914Z - info: [ui] launching: 3.2.6 (Windows 10.0.19045)
+2023-06-26T19:29:38.536Z - info: [ui] Subscribed 'JoshuaAguilar07' to Alive channel
+2023-06-26T19:35:02.516Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 2.2s of which 0.0s paused, total 2.2s
