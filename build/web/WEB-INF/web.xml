@@ -8,6 +8,10 @@
         <servlet-name>ControladorBodega</servlet-name>
         <servlet-class>Controlador.ControladorBodega</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ControladorVendedor</servlet-name>
+        <servlet-class>Controlador.ControladorVendedor</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Controlador</servlet-name>
         <url-pattern>/Controlador</url-pattern>
@@ -15,6 +19,10 @@
     <servlet-mapping>
         <servlet-name>ControladorBodega</servlet-name>
         <url-pattern>/ControladorBodega</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ControladorVendedor</servlet-name>
+        <url-pattern>/ControladorVendedor</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

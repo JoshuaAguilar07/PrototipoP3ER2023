@@ -1,3 +1,4 @@
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -28,8 +29,8 @@ Joshua Erickson Aguilar 9959-20-4660</p>
   </div>
   <div class="w3-bar-block">
     <a href="ControladorBodega?accion=listar" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>Bodegas</a> 
-    <a href="Controlador?accion=listart" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Vendedores</a> 
-    <a href="Controlador?accion=listar" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Clientes</a>
+    <a href="ControladorVendedor?accion=listar" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Vendedores</a> 
+    <a href="ControladorCliente?accion=listar" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Clientes</a>
   </div>
 
 </nav>
